@@ -1,4 +1,4 @@
-# Turtle-Party
+# Turtle party Project 
 Working with Turtle function 
 by Adam Stevenson 
 
