@@ -30,7 +30,7 @@ moveFor (150)
 turtle.color('blue')
 spiral (100, 90) #square
 moveFor (200)
-# polygon(3, 10)
+# polygon(3, 10) remember what this does!
 
 for n in range(3, 10): #clock style polygon
   moveFor(50) #forward
